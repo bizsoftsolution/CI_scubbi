@@ -1,0 +1,94 @@
+
+
+------------------------------LANDING PAGE------------------------------
+1. Banner not right.
+2. Search bar position should be below the Banner.
+3. Dive Centers Tab - Searching bar:
+   a. Remove the yellow color, follow the specification document.
+   b. Country: upon clicking on it, didnt show in full view as per mentioned in the specification document.
+   c. Island: upon clicking on it, didnt show in full view as per mentioned in the specification document.
+   d. Check In date and Check out date: upon clicking on it, should display current month and next month.
+   e. Date format should display in DD/MM/YYYY
+   f. No. of Person textbox is missing.
+
+4. Dive Centers Tab - Special Offer section: 
+   - Static view: The "From  p. 1700000 (2 Dive/day)" just position to bottom left corner. No need to only display when hover to the photo.
+   - Missing "Click to show more..." button.
+   - Remove the "star".
+   - DEsktop: Upon clicking on the "Click to show more", show the next 4 photo. IF there are more than 8 photo, rotate each group in 8 photo.
+   - Mobile version: Photo scroll left and right to view.
+   
+5. Dive Centers Tab - Popular Diving Destination:
+   - Missing "Click to show more..." button.
+   - Remove "Read more" button mouse over effect. 
+
+6. Guided Tour Tab:
+   a. When click on the Guider Tour tab, Special Offer and Popular Destination from Dive Centers Tab should not show.
+   b. when click on the Guided Tour tab, only the Search bar is show. No Guided Tour photos show.
+   c. Travel Period, Your Country and Destination Country drop down: should defaulted to blank.
+   d. Travel Period: value not correct.
+
+7. Liveaboards Tab: hide it since it is not in this phase.
+
+8. Email Subscribe to change the position to bottom right corner same row with LOGO, SCUBBI (About us, Contact Us etc) Follow us on.
+   Suggested to position same row with LOGO but under Follow Us On. Background remained as black.
+
+10. Become a Partner, Help, Sign Ip, Login should display as per mentioned in the specification document.
+
+11. Left and right empty space too large. 
+
+12. reduce the size of "follow us on" logo.
+
+13. SCUBBI logo and "Connecting Divers Globally" position adjust to top left corner. 
+
+14. Became A Partner, Help, Sign Up, Login position adjust to top right corner. Follow Airbnb style.
+
+15. SCUBI logo, Font type will be provide by Raymond.
+
+------------------------------Search Result Page------------------------------
+1. Country > Island > Tell me More should be on top left corner of the page, beside the logo and [Connecting Divers Globally].
+2. Photo View can be remain but to adjust the width to follow borders.
+2. Searching bar: 
+   a. Date format should display in DD/MM/YYYY
+   b. Missing No. Of Person textbox.
+   c. CANCEL button should not show. It will only show after click on the FILTER button.
+   d. Instead of FILTER button, put in iframe with filter below Search bar.
+4. No of Dive center missing. 
+5. "Additional fees apply. Taxes may be added." missing.
+6. spacing between photo is missing.
+8. Photo view not follow specification document:
+   a. Remove "Read more" button mouse over effect.
+   b. pagination color
+   c. Previous and Next link missing in each photo.
+8. Google map:
+   a. Remove 23 reviews
+   b. Remove View larger map
+   c. Hide the Google sign in   
+9. Tell me more shown in new tab, page 40 section 2.6 Island Page (new tab).  
+
+------------------------------Selected Dive Center Page(always Open a new TAB)------------------------------  
+
+1. Currency and Language on top right next to Become a Partner.
+2. Photo view follow specification document, Page 22. Upon click on the photo, then just pop up screen to show in large.
+3. Dive Center name, searching bar, Contact dive center button all position in same row.
+4. Searching bar: missing no. of person textbox.
+5. General Info Tab: 
+   a. max length 500 words for DC descripion.
+6. Leisure Dive Tab:
+   a. Each product being click should show in same section, as per mentioned in specification document.
+   b. scroll bar for Product rows.
+   c. "Add to cart" change to "Add to My Dive Cart".
+
+7. Review Tab: follow DC Admin Specification document, Page 27.
+
+8. My Dive Cart: follow page 35
+   a. laptop/desktop version: expand up to 8 rows of records.
+   b. mobile version: do accordingly.
+   c. minimise the dive cart.
+   d. restrict the dive cart not to show until the footer of the page.   
+
+   
+
+
+
+

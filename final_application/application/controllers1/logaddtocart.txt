@@ -1,0 +1,4 @@
+Check-in:11-04-2018, Check-out:18-04-2018, Session:885a3b426920ec5e69935ca942fbc3f2, DiverID: P1
+  - ProductID: 42 [Test C&S-1 (Course 1)], No of Dives:1, UOM: Pax, Unit Price:1500
+ Accomodation [No] 
+ from table:tbl_dccourses, dive id:67

@@ -1,0 +1,10 @@
+Processing Snorkelling
+Iterate: 1  2018-05-28 for 1 pax 
+  - 1 - 2018-05-28 Rendering Pax 1 qty >> check 1 avail 1 
+  - Rendering 1 qty 
+Processing Snorkelling
+Iterate: 2  2018-05-29 for 1 pax 
+  - 2 - 2018-05-29 Rendering Pax 2 qty >> check 1 avail 1 
+  - Rendering 2 qty 
+Booking Policy
+Cancellation Policy

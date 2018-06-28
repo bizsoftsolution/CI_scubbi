@@ -1,0 +1,8 @@
+  - 2018-04-09 Rendering 2 qty >> check 2 avail No Limit 
+  - Rendering total 2 selects 
+Product price ......
+ Normal Price:0.00
+Accomodations => Yes 
+ Prices: 50,120,140,160
+Booking Policy
+Cancellation Policy

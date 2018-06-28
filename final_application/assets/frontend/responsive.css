@@ -1,0 +1,129 @@
+/* ------------------------------------------------------------------------------
+ *
+ *  # Global less file
+ *
+ *  Common less file with imports of plugins and pages
+ *
+ *  Version: 1.0
+ *  Latest update: Feb 5, 2016
+ *
+ * ---------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------
+ *
+ *  # Glyphicons for Bootstrap
+ *
+ *  Glyphicons icon font path and style overrides
+ *
+ *  Version: 1.0
+ *  Latest update: May 25, 2015
+ *
+ * ---------------------------------------------------------------------------- */
+ 
+ @media screen and (max-width: 319px) and (min-width: 280px) {
+	
+	.modal_res
+	{
+		width: 260px;
+	}
+	.img_res
+	{
+		width: 40px !important;
+height: 40px !important;
+display: block;
+float: left;
+padding: 3px;
+	}
+	
+}
+
+@media screen and (max-width: 480px) and (min-width: 320px) {
+	
+	.modal_res
+	{
+		width: 300px;
+	}
+	.img_res
+	{
+		width: 50px !important;
+		height: 50px !important;
+		display: inline;
+		float: left;
+		padding: 3px;
+	}
+	
+	#navbar-logo 
+	{
+		margin-top: 0px;
+		margin-left: 0px;
+	}
+	.navbar-brand img {
+		padding:7px;
+	}
+	.navbar-toggle
+	{
+		margin-top: 20px;
+	}
+}
+@media screen and (max-width: 767px) and (min-width: 481px) {
+	.res_login
+	{
+		margin:0 auto;
+	}
+	#navbar-logo 
+	{
+		margin-top: 0px;
+		margin-left: 0px;
+	}
+	.navbar-brand img {
+		padding:7px;
+	}
+	.navbar-toggle
+	{
+		margin-top: 20px;
+	}
+	
+}
+
+@media screen and (max-width: 900px) and (min-width: 768px) {
+	
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+.mbl_search_responsive
+{
+margin: 164px 0 0 0;
+}
+}
+
+@media screen and (max-width: 1920px) and (min-width: 768px) {
+	.tellmeMore
+	{
+		padding:30px 0px;
+	}
+}
+@media screen and (max-width: 411px) and (min-width: 320px) {
+	
+	.slider-container
+	{
+		    padding-top: 50px !important;
+	}
+	
+}
+@media screen and (max-width: 790px) and (min-width: 450px) {
+	.slider-container
+	{
+		    padding-top: 110px !important;
+	}
+	.header-text
+	{
+		padding:15px 15px !important;
+		margin: 5px 0;
+	}
+	
+}
+@media screen and (max-width: 1920px) and (min-width: 800px) {
+	.slider-container
+	{
+		    padding-top: 110px !important;
+	}
+}

@@ -1,0 +1,4 @@
+Insert Cart Product 
+     Insert product Test C&S-1 (Course 1), qty 1, accom No ID: 826
+
+					No accom.... 

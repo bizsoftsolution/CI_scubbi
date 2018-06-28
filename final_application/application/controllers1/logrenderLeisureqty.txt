@@ -1,0 +1,49 @@
+Processing Snorkelling
+Iterate: 1  2018-03-31 for 1 pax 
+  - 1 - 2018-03-31 Rendering Pax 1 qty >> check 1 avail 1 
+  - Rendering 1 qty 
+Processing Snorkelling
+Iterate: 2  2018-04-01 for 1 pax 
+  - 2 - 2018-04-01 Rendering Pax 2 qty >> check 1 avail 20 
+  - Rendering 2 qty 
+Processing Snorkelling
+Iterate: 3  2018-04-02 for 1 pax 
+  - 3 - 2018-04-02 Rendering Pax 3 qty >> check 1 avail 1 
+  - Rendering 3 qty 
+Processing Snorkelling
+Iterate: 4  2018-04-03 for 1 pax 
+  - 4 - 2018-04-03 Rendering Pax 4 qty >> check 1 avail 1 
+  - Rendering 4 qty 
+Processing Snorkelling
+Iterate: 5  2018-04-04 for 1 pax 
+  - 5 - 2018-04-04 Rendering Pax 5 qty >> check 1 avail 1 
+  - Rendering 5 qty 
+Processing Snorkelling
+Iterate: 6  2018-04-05 for 1 pax 
+  - 6 - 2018-04-05 Rendering Pax 6 qty >> check 1 avail 1 
+  - Rendering 6 qty 
+Processing Snorkelling
+Iterate: 7  2018-04-06 for 1 pax 
+  - 7 - 2018-04-06 Rendering Pax 7 qty >> check 1 avail 1 
+  - Rendering 7 qty 
+Processing Snorkelling
+Iterate: 8  2018-04-07 for 1 pax 
+  - 8 - 2018-04-07 Rendering Pax 8 qty >> check 1 avail 1 
+  - Rendering 8 qty 
+Processing Snorkelling
+Iterate: 9  2018-04-08 for 1 pax 
+  - 9 - 2018-04-08 Rendering Pax 9 qty >> check 1 avail 20 
+  - Rendering 9 qty 
+Processing Snorkelling
+Iterate: 10  2018-04-09 for 1 pax 
+  - 10 - 2018-04-09 Rendering Pax 10 qty >> check 1 avail 1 
+  - Rendering 10 qty 
+Processing Snorkelling
+Iterate: 11  2018-04-10 for 1 pax 
+  - 11 - 2018-04-10 Rendering Pax 11 qty >> check 1 avail 1 
+  - Rendering 11 qty 
+Processing Snorkelling
+Iterate: 12  2018-04-11 for 1 pax 
+  - 12 - 2018-04-11 Rendering Pax 12 qty >> check 1 avail 1 
+  - Rendering 12 qty 
+Booking Policy

@@ -1,0 +1,20 @@
+Processing Test C&S-3 
+Iterate: 1  2018-05-21 for 3 pax 
+  - No max, season NM 
+  - Rendering 1 qty 
+Processing Test C&S-3 
+Iterate: 2  2018-05-22 for 3 pax 
+  - No max, season NM 
+  - Rendering 2 qty 
+Processing Test C&S-3 
+Iterate: 3  2018-05-23 for 3 pax 
+  - No max, season NM 
+  - Rendering 3 qty 
+Processing Test C&S-3 
+Iterate: 4  2018-05-24 for 3 pax 
+  - No max, season NM 
+  - Rendering 4 qty 
+  - Writing non dive uom, season NM 
+  - Writing season NM 
+Booking Policy
+Cancellation Policy

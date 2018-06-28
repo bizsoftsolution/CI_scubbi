@@ -1,0 +1,103 @@
+Product Leisure (^) Snorkelling[20] MaxDive:0, ProdMax:20
+  - 2018-04-11 [20/0] pax dd:0 
+  - 2018-04-12 [20/0] pax dd:0 
+  - 2018-04-13 [20/0] pax dd:0 
+  - 2018-04-14 [20/0] pax dd:0 
+  - 2018-04-15 [20/0] pax dd:0 
+  - 2018-04-16 [20/0] pax dd:0 
+  - 2018-04-17 [20/0] pax dd:0 
+  - 2018-04-18 [20/0] pax dd:0 
+  - Listed available with dd=0 
+Product Leisure (^) Dive Equipment Rental1[21] MaxDive:1, ProdMax:No Limit
+ - No Max 
+Product Leisure (^) Test LD-1 (Fun Dive)[77] MaxDive:2, ProdMax:40
+  - 2018-04-11 [40/2] dd:0 
+  - 2018-04-12 [40/2] dd:0 
+  - 2018-04-13 [40/2] dd:0 
+  - 2018-04-14 [40/2] dd:0 
+  - 2018-04-15 [40/2] dd:0 
+  - 2018-04-16 [40/2] dd:0 
+  - 2018-04-17 [40/2] dd:0 
+  - 2018-04-18 [40/2] dd:0 
+  - Listed available with dd=0 
+Product Leisure (^) Test LD-2 (Equipment Rental)[78] MaxDive:0, ProdMax:20
+  - 2018-04-11 [20/0] pax dd:0 
+  - 2018-04-12 [20/0] pax dd:0 
+  - 2018-04-13 [20/0] pax dd:0 
+  - 2018-04-14 [20/0] pax dd:0 
+  - 2018-04-15 [20/0] pax dd:0 
+  - 2018-04-16 [20/0] pax dd:0 
+  - 2018-04-17 [20/0] pax dd:0 
+  - 2018-04-18 [20/0] pax dd:0 
+  - Listed available with dd=0 
+Product Leisure (^) Leisure Dive Testing 15-DEC-2017[79] MaxDive:3, ProdMax:60
+  - 2018-04-11 [60/3] dd:0 
+  - 2018-04-12 [60/3] dd:0 
+  - 2018-04-13 [60/3] dd:0 
+  - 2018-04-14 [60/3] dd:0 
+  - 2018-04-15 [60/3] dd:0 
+  - 2018-04-16 [60/3] dd:0 
+  - 2018-04-17 [60/3] dd:0 
+  - 2018-04-18 [60/3] dd:0 
+  - Listed available with dd=0 
+Product Leisure (^) Boat Dive Test V1.1[81] MaxDive:3, ProdMax:No Limit
+ - No Max 
+Product Leisure (^) Test by anitha[83] MaxDive:10, ProdMax:10
+  - 2018-04-11 [10/10] dd:0 
+  - 2018-04-12 [10/10] dd:0 
+  - 2018-04-13 [10/10] dd:0 
+  - 2018-04-14 [10/10] dd:0 
+  - 2018-04-15 [10/10] dd:0 
+  - 2018-04-16 [10/10] dd:0 
+  - 2018-04-17 [10/10] dd:0 
+  - 2018-04-18 [10/10] dd:0 
+  - Listed available with dd=0 
+Product Courses (^) Padi Advanced Open Water Course[9] MaxDive:, ProdMax:No Limit
+  - No Max 
+Product Courses (^) Discovery Scuba [26] MaxDive:, ProdMax:No Limit
+  - No Max 
+Product Courses (^) Test C&S-1 (Course 1)[42] MaxDive:, ProdMax:20
+  - 2018-04-11 [20/] pax dd:0 
+  - 2018-04-12 [20/] pax dd:0 
+  - 2018-04-13 [20/] pax dd:0 
+  - 2018-04-14 [20/] pax dd:0 
+  - 2018-04-15 [20/] pax dd:0 
+  - 2018-04-16 [20/] pax dd:0 
+  - 2018-04-17 [20/] pax dd:0 
+  - 2018-04-18 [20/] pax dd:0 
+  - Listed available with dd=0 
+Product Courses (^) Test C&S-3 [43] MaxDive:, ProdMax:No Limit
+  - No Max 
+Product Courses (^) Test C&S-2 [66] MaxDive:, ProdMax:No Limit
+  - No Max 
+Product Courses (^) Courses & Specialties 15-DEC-2017[67] MaxDive:, ProdMax:20
+  - 2018-04-11 [20/] pax dd:0 
+  - 2018-04-12 [20/] pax dd:0 
+  - 2018-04-13 [20/] pax dd:0 
+  - 2018-04-14 [20/] pax dd:0 
+  - 2018-04-15 [20/] pax dd:0 
+  - 2018-04-16 [20/] pax dd:0 
+  - 2018-04-17 [20/] pax dd:0 
+  - 2018-04-18 [20/] pax dd:0 
+  - Listed available with dd=0 
+Product Package (<3) 3D2N Tioman Diveaway                    [6] ProdMax:
+  - 2018-04-11 [/] pax dd:1 
+  - Listed unavailable with dd=1 
+Product Package (<3) Test Dive Package-1 (W/o accommodation)              [25] ProdMax:No Limit
+  - No Max 
+Product Package (<3) Test Dive Package-2 w/accommodation                                                  [26] ProdMax:No Limit
+  - No Max 
+Product Package (<3) Test Dive Package-3 w/accommodation                [50] ProdMax:No Limit
+  - No Max 
+Product Package (<3) Test Dive Package-4    [52] ProdMax:No Limit
+  - No Max 
+Product Package (<3) Test Dive Package-2 w/hotel V1.1       [59] ProdMax:No Limit
+  - No Max 
+Product Package (<3) test  [68] ProdMax:5
+  - 2018-04-11 [5/] pax dd:0 
+  - Listed available with dd=0 
+ Booking period 2018-03-20 to 2018-03-21, Bkdate: 2018-04-02 , Travel period 2018-03-20 to 2018-03-22 Booking outside!  Travel outside! 
+Product Package (<3) test issue 36 [69] ProdMax:No Limit
+  - No Max 
+Product Package (<3) package 30-mar-2018[70] ProdMax:No Limit
+  - No Max 

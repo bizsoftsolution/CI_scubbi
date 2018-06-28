@@ -1,0 +1,4 @@
+Check-in:28-05-2018, Check-out:29-05-2018, Session:bd9a2a31e3b9bd9e5a23ef4564c88159, DiverID: P1
+  - ProductID: 20 [Snorkelling], No of Dives:1, UOM: Pax, Unit Price:600
+ Accomodation [No] 
+ from table:tbl_dcleisure, dive id:67

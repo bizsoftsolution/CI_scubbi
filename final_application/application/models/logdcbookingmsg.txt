@@ -1,0 +1,3 @@
+CustID: 96, RefNo: SMY1805792735, Status: DECLINED 
+  Thread: 49 
+    Insert message -> DC Declined ref: SMY1805792735 

@@ -1,0 +1,3 @@
+CustID: 96, RefNo: SMY1802298003, Status: CONFIRMED 
+  Thread: 37 
+    Insert message -> DC Confirmation ref: SMY1802298003 
